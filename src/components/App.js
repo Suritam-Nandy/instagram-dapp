@@ -23,9 +23,7 @@ class App extends Component {
             <p>Loading...</p>
           </div>
         ) : (
-          <Main
-          // Code...
-          />
+          <Main />
         )}
       </div>
     );
